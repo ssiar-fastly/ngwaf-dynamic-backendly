@@ -6,13 +6,12 @@ The "NGWAF Dynamic Backendly" project is designed to interact with Fastly's API 
 ## Requirements
 - Python 3.x
 - `fastly` Python package
-- `python-dateutil` Python package (if not already satisfied by the `fastly` package)
 
 ## Installation
-To set up your environment for running this script, you need to install the required Python packages. You can install these packages using `pip`. Run the following command in your terminal:
+To set up your environment for running this script, you need to install the required Fastly Python package. You can install these packages using `pip`. Run the following command in your terminal:
 
 ```bash
-pip install fastly python-dateutil
+pip install fastly
 ```
 
 ## Usage
